@@ -43,13 +43,14 @@ form input {
     font-size: 20px;
     background-color: rgba(255, 255, 255, 0.445);
     width: 300px;
-    border: none;
+    border: 1px solid;
     padding: 4px;
     margin-top: 10px;
 }
 
 form button {
-    background-color: #80f1a6;
+    background-color: #57df84;
+    color: #fff;
     font-weight: bold;
     font-size: 20px;
     padding: 5px;
